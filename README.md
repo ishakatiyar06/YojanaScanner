@@ -25,7 +25,7 @@ It’s a one-stop solution to empower every citizen with equal access to welfare
 ## 🖼️ Output Screenshots
 
 ### 📌 Home Page
-![Home Page](![image](https://github.com/user-attachments/assets/b94dcf4c-d68b-48c7-96cb-062743339846)
+![image](https://github.com/user-attachments/assets/b94dcf4c-d68b-48c7-96cb-062743339846)
 
 ### 📌 Uploading Documents 
 ![image](https://github.com/user-attachments/assets/3222d192-160f-41cd-8924-c48741197dfe)
@@ -35,7 +35,7 @@ It’s a one-stop solution to empower every citizen with equal access to welfare
 
 
 ### 📌 Result Page
-![Result Page]![image](https://github.com/user-attachments/assets/3653db32-a615-4ed7-be14-fd597989d588)
+![image](https://github.com/user-attachments/assets/3653db32-a615-4ed7-be14-fd597989d588)
 
 
 ---
