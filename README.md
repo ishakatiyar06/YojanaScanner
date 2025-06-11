@@ -22,6 +22,27 @@ Given the overwhelming number of schemes at both the state and national levels, 
 It’s a one-stop solution to empower every citizen with equal access to welfare benefits—built as a multilingual, responsive web app powered by IBM’s AI suite.
 
 ---
+## 🖼️ Output Screenshots
+
+### 📌 Home Page
+![Home Page](![image](https://github.com/user-attachments/assets/b94dcf4c-d68b-48c7-96cb-062743339846)
+
+### 📌 Uploading Documents 
+![image](https://github.com/user-attachments/assets/3222d192-160f-41cd-8924-c48741197dfe)
+
+### 📌 Using AI Assistant 
+![image](https://github.com/user-attachments/assets/822f7999-b4b3-4350-94dd-01056b65060e)
+
+
+### 📌 Result Page
+![Result Page]![image](https://github.com/user-attachments/assets/3653db32-a615-4ed7-be14-fd597989d588)
+
+
+---
+## 🎥 Demo Video
+
+[Click here to watch the demo](./assets/demo_video.mp4)
+
 
 ## 🛠️ Technologies Used
 
